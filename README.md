@@ -1,4 +1,4 @@
-# Hi there, I'm Mateusz Zadrożny 👋
+# Hi there👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateusz_Zadrożny-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mateusz-zadro%C5%BCny-7038922b4/)
 [![Email](https://img.shields.io/badge/Email-mateusz.zadrozny2004@wp.pl-red?style=flat&logo=gmail)](mailto:mateusz.zadrozny2004@wp.pl)
